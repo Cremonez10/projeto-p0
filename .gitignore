@@ -1,0 +1,15 @@
+# Ambiente Virtual (Caixa isolada de bibliotecas)
+.venv/
+
+# Arquivo de Segredos e Chaves de API (LGPD / Segurança)
+.env
+
+# Logs do sistema (Gravados apenas localmente)
+logs/
+
+# Arquivos temporários e compilação do Python
+__pycache__/
+*.pyc
+
+# Configurações locais da IDE VS Code
+.vscode/
